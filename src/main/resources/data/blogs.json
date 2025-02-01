@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Blog sobre Java",
+    "theme": "Tecnología",
+    "content": "Este es un blog sobre el lenguaje Java...",
+    "frequency": "SEMANAL",
+    "allowsComments": true,
+    "author": {
+      "firstName": "Juan",
+      "lastName": "Pérez",
+      "middleName": "Carlos",
+      "birthDate": "1985-05-14",
+      "country": "México",
+      "email": "juan@example.com"
+    },
+    "comments": [],
+    "updates": []
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "firstName": "Juan",
+    "lastName": "Pérez",
+    "middleName": "Carlos",
+    "birthDate": "1985-05-14",
+    "country": "México",
+    "email": "juan@example.com"
+  }
+]
